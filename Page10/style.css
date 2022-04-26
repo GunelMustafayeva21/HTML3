@@ -1,0 +1,66 @@
+.container2 {
+    
+        background-image: url(car2.webp);
+        background-repeat: repeat;
+        background-size: cover;
+        background-position: center;
+        margin-top: -22px;
+        height: 75%; 
+        
+        
+   }
+
+   .container1 img {
+       max-width:25%;
+       height: fit-content;
+       padding-left: 20px;
+       padding-top: 20px;
+       padding-bottom: 20px;
+       
+    }
+       
+       h1{
+           padding-top: 40px;
+       }
+
+   .container1{
+    background-image: linear-gradient(to right, #1913a6, #0044bf, #196ad0, #4a8ddb, #7bafe3, #8abde6, #9dcbe9, #b2d8ec, #a4d7eb, #95d7e9, #86d6e4, #77d5de);
+     }
+    
+    .container {
+       margin-top: 10px;
+       margin-left: 10px;
+       margin-right: 10px;
+       max-width: 1200px;
+       margin: auto;
+       height: 1100px;
+       
+      
+   }
+   h1 , p{
+       color:#cee6eb;
+       font-family:cursive;
+       text-align: center;
+       
+   }
+   p{
+       font-size:larger;
+   }
+   span{
+       color: #0e4bad;
+   }
+   .button {
+    background-color: #0e4bad; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    
+  }
+  .container3{
+      text-align: right;
+      margin-right:100px;
+  }
